@@ -4,6 +4,7 @@ function Card({details}) {
 
   return (
     <div className="card" style={{width: "18rem"}}>
+      <h1>Referesh the page to get new details.</h1>
   <img src={details.picture?.large} className="card-img-top" alt="..." />
   <div className="card-body">
     <h5 className="card-title">Name - {details.name?.first} </h5>
