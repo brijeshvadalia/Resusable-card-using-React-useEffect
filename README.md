@@ -55,12 +55,12 @@
 >![BADGE](https://img.shields.io/badge/GIT-GIT-orange)
 >![BADGE](https://img.shields.io/badge/VERCEL-VERCEL-blue)
 
-
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
+># [LIVE [HOSTED] PROJECT LINK](https://resusable-card-using-react-use-effect.vercel.app/ "Resusable-card-using-React-useEffect")
+
 
 >![screenshot](./screenshot/screenshot-1.png)
 >![screenshot](./screenshot/screenshot-2.png)
-
 
 
 
