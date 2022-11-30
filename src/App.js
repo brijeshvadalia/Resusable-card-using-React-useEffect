@@ -21,8 +21,11 @@ function App() {
 
   return (
     <div className="App">
+      <>    
+        <h1>Referesh the page to get new details.</h1>
 
       <Card details={details} />
+      </>
 
     </div>
   );
