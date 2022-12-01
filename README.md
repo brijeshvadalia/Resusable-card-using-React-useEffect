@@ -17,7 +17,7 @@
 > - `React JS🤓 is today's most popular JavaScript Library for building User Interfaces, which has created by Facebook.`
 > - ` It is an efficient, flexible, and open-source JavaScript library, that was developed and is maintained by Facebook.🤠 It is capable of rendering front-ends of web apps that are simple, speedy, and scalable.`
 
-> # All About `Resusable-card-using-React-useEffect` 😎
+> # All About `Resusable-card-using-React-useEffect`[Hook] 😎
 
 # **Gained expertise through this project :**
 
